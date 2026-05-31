@@ -23,7 +23,3 @@ include:
     shield: leeloo_rev2_left
   - board: nice_nano_v2
     shield: leeloo_rev2_right
-  - board: nice_nano_v2
-    shield: leeloo_left
-  - board: nice_nano_v2
-    shield: leeloo_right
